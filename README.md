@@ -39,8 +39,8 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 5.Repeat steps 2-4 for each bit you want to input and shift.
 
 **PROGRAM**
-Developed by:A.BHAGATHKRISHNA
-RegisterNumber: 212223230029
+Developed by: ROHITH PREM S
+RegisterNumber: 212223040172
 ```
 module ex11(out,clk,rstn);
 input clk,rstn;
